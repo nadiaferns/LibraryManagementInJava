@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Dec, 2022, 12:34:51 PM
+    Author     : nadia
+*/
+
+.label{
+    -fx-text-fill: blue;
+    -fx-foreground-color:red;
+    
+}
+
+.button{
+    -fx-color: white;
+    -fx-background-color: blue;
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+}
+.textField{
+    -fx-background-color: lime;
+    -fx-text-fill: green;
+}
+#returnpg{
+    -fx-background-color: lightgreen;
+    -fx-border: solid green;
+    -fx-font-size: 25px;
+    -fx-padding-left: 15px;
+    -fx-alignment:TOP_CENTER;
+}
+#reportpg{
+    -fx-font-size: 25px;
+    -fx-text-fill: purple;
+    -fx-background-color: plum;
+    -fx-padding: 20px;
+    -fx-alignment: TOP_CENTER;
+}
+#registerpg{
+    -fx-background-color: lightblue;
+    -fx-border: solid green;
+    -fx-font-size: 25px;
+    -fx-padding-left: 15px;
+    -fx-alignment:TOP_CENTER;
+}
+#issuepg{
+    -fx-background-color: lightpink;
+    -fx-border: solid green;
+    -fx-font-size: 25px;
+    -fx-padding-left: 15px;
+    -fx-alignment:TOP_CENTER;
+}
+
+.lblissd{
+    -fx-border: solid plum;
+    -fx-padding: 10em;
+}
+
+.bks{
+    font-size: 25px;
+    -fx-padding:10px;
+    -fx-text-fill: white;
+}
+
+#home{
+    -fx-background-image: url("home.jpg");
+    -fx-text-fill: white;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100% 100%;
+     -fx-font-size: 30px;
+     -fx-alignment:TOP_CENTER;
+}
